@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="StyleButton01TextColor" type="color">@color/button01_value</item>
+    <item name="StyleButton01TextSize" type="dimen">16sp</item>
+    <item name="StyleButton01LineSpacingExtra" type="dimen">2sp</item>
+    <item name="StyleButton01FontFamily" type="font">@font/font_semibold</item>
+
+    <item name="StyleH3TextColor" type="color">@color/h3_value</item>
+    <item name="StyleH3TextSize" type="dimen">20sp</item>
+    <item name="StyleH3LineSpacingExtra" type="dimen">-6sp</item>
+    <item name="StyleH3FontFamily" type="font">@font/font_semibold</item>
+</resources>

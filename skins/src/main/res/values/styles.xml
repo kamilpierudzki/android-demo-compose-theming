@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PrimaryActionButton">
+        <item name="android:textAppearance">@style/Button01</item>
+        <item name="android:background">@drawable/primary_button_background</item>
+        <item name="android:minHeight">@dimen/action_button_min_height</item>
+        <item name="android:paddingLeft">@dimen/action_button_left_right_padding</item>
+        <item name="android:paddingRight">@dimen/action_button_left_right_padding</item>
+    </style>
+
+    <style name="H3">
+        <item name="android:textColor">@color/StyleH3TextColor</item>
+        <item name="android:textSize">@dimen/StyleH3TextSize</item>
+        <item name="android:lineSpacingExtra">@dimen/StyleH3LineSpacingExtra</item>
+        <item name="android:fontFamily">@font/StyleH3FontFamily</item>
+    </style>
+</resources>

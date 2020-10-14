@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="font_bold" type="font">@font/eina01_bold</item>
+    <item name="font_semibold" type="font">@font/eina01_semibold</item>
+    <item name="font_regular" type="font">@font/eina01_regular</item>
+</resources>

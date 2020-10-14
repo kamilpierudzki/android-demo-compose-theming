@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/buttonTap">
+    <item>
+        <selector>
+            <item android:state_enabled="true">
+                <shape>
+                    <gradient
+                        android:angle="315"
+                        android:endColor="@color/colorBrand01Gradient2"
+                        android:startColor="@color/colorBrand01Gradient1"
+                        android:type="linear" />
+                    <corners android:radius="4dp" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <gradient
+                        android:angle="315"
+                        android:endColor="@color/colorBrand01InactiveGradient2"
+                        android:startColor="@color/colorBrand01InactiveGradient1"
+                        android:type="linear" />
+                    <corners android:radius="4dp" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

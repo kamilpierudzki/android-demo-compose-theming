@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_composable_title">This is example of compose-based screen</string>
+    <string name="feature_view_in_composable_title">This is example of putting view into Jetpack Compose</string>
+    <string name="feature_composable_in_view_title">This is example of putting composable into Android view</string>
+    <string name="feature_standard_view_title">This is example of standard Android view</string>
+
+    <string name="feature_button">Increment value</string>
+</resources>

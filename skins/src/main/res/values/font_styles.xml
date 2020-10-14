@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button01">
+        <item name="android:textColor">@color/StyleButton01TextColor</item>
+        <item name="android:textSize">@dimen/StyleButton01TextSize</item>
+        <item name="android:lineSpacingExtra">@dimen/StyleButton01LineSpacingExtra</item>
+        <item name="android:fontFamily">@font/StyleButton01FontFamily</item>
+    </style>
+</resources>

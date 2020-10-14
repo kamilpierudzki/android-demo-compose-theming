@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonTap">@color/buttonTap_value</color>
+    <color name="colorBrand01Gradient1">@color/colorBrand01Gradient1_value</color>
+    <color name="colorBrand01Gradient2">@color/colorBrand01Gradient2_value</color>
+    <color name="colorBrand01InactiveGradient1">@color/colorBrand01InactiveGradient1_value</color>
+    <color name="colorBrand01InactiveGradient2">@color/colorBrand01InactiveGradient2_value</color>
+    <color name="colorBrand03">@color/colorBrand03_value</color>
+</resources>
