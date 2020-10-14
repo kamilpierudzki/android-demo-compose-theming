@@ -9,10 +9,10 @@ import com.example.androidweekly.feature.R
 import com.example.androidweekly.feature.databinding.FeatureFragmentComposableInViewBinding
 import com.viacom.android.neutron.commons.ui.DataBindingFragment
 
-class ComposeInViewFragment : DataBindingFragment() {
+class ComposableInViewFragment : DataBindingFragment() {
 
     companion object {
-        fun newInstance(): ComposeInViewFragment = ComposeInViewFragment()
+        fun newInstance(): ComposableInViewFragment = ComposableInViewFragment()
     }
 
     override fun inflateBinding(

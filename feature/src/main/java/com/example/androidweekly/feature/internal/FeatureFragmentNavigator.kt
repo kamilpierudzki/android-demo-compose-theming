@@ -2,7 +2,7 @@ package com.example.androidweekly.feature.internal
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import com.example.androidweekly.feature.internal.composeinview.ComposeInViewFragment
+import com.example.androidweekly.feature.internal.composeinview.ComposableInViewFragment
 import com.example.androidweekly.feature.internal.standardview.StandardViewFragment
 import com.example.androidweekly.feature.internal.viewincomposable.ViewInComposableFragment
 
@@ -15,7 +15,7 @@ class FeatureFragmentNavigator(
     }
 
     fun showComposableInView(clearBackStack: Boolean = false) {
-        showFragment(ComposeInViewFragment.newInstance(), clearBackStack)
+        showFragment(ComposableInViewFragment.newInstance(), clearBackStack)
     }
 
     fun showStandardView(clearBackStack: Boolean = false) {
