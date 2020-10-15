@@ -1,6 +1,5 @@
 rootProject.name = "AndroidWeeklyDemoApp"
 include ':app'
 include ':feature'
-include ':app-library'
 include ':skins'
 include ':commons'

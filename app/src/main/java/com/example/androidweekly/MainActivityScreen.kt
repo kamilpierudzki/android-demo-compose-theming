@@ -1,4 +1,4 @@
-package com.example.androidweekly.common
+package com.example.androidweekly
 
 import androidx.compose.foundation.Text
 import androidx.compose.foundation.layout.*

@@ -1,4 +1,4 @@
-package com.example.androidweekly.common
+package com.example.androidweekly
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

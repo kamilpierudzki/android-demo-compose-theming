@@ -1,4 +1,4 @@
-package com.example.androidweekly.common
+package com.example.androidweekly
 
 import android.content.Context
 import com.example.androidweekly.feature.api.FeatureActivity
