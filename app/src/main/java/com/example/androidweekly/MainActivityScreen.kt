@@ -29,7 +29,7 @@ fun MainActivityScreen(
                         .align(Alignment.CenterHorizontally),
                     onClick = onComposableInView
                 ) {
-                    Text("Jetpack Composable in View")
+                    Text("Compose in View")
                 }
             }
         }
@@ -41,7 +41,7 @@ fun MainActivityScreen(
                         .align(Alignment.CenterHorizontally),
                     onClick = onViewInComposable
                 ) {
-                    Text("View in Jetpack Composable")
+                    Text("View in Compose")
                 }
             }
         }
@@ -53,7 +53,7 @@ fun MainActivityScreen(
                         .align(Alignment.CenterHorizontally),
                     onClick = onStandardView
                 ) {
-                    Text("Standard android view")
+                    Text("Standard Android View")
                 }
             }
         }
