@@ -1,13 +1,14 @@
 package com.example.androidweekly.skins.theming.qwertyPlus
 
 import androidx.compose.ui.graphics.Color
+import com.example.androidweekly.skins.theming.resource.HexToJetpackColor
 
 val my_primary = Color.Red
 
-val colorUI04_value = Color(240, 240, 240)
-val button01_value = Color(250, 250, 250)
-val colorBrand01Gradient1_value = Color(1, 102, 164)
-val colorBrand01Gradient2_value = Color(1, 102, 164)
-val colorBrand01InactiveGradient1_value = Color(1, 102, 164, 0x33)
-val colorBrand01InactiveGradient2_value = Color(1, 102, 164, 0x33)
-val h3_value = Color(60, 60, 60)
+val colorUI04_value = HexToJetpackColor.fromHex("#F0F0F0")
+val button01_value = HexToJetpackColor.fromHex("#FAFAFA")
+val colorBrand01Gradient1_value = HexToJetpackColor.fromHex("#0166A4")
+val colorBrand01Gradient2_value = HexToJetpackColor.fromHex("#0166A4")
+val colorBrand01InactiveGradient1_value = HexToJetpackColor.fromHex("#330166A4")
+val colorBrand01InactiveGradient2_value = HexToJetpackColor.fromHex("#330166A4")
+val h3_value = HexToJetpackColor.fromHex("#3C3C3C")
