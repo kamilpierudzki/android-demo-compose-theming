@@ -20,7 +20,7 @@ class ViewInComposableFragment : Fragment() {
     ): View? {
         return ComposeView(requireContext()).apply {
             setContent {
-                ViewInComposableElementMain(lifecycleOwner = viewLifecycleOwner)
+                ViewInComposableElementMain()
             }
         }
     }
